@@ -1,0 +1,7 @@
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedClient\bin\Debug\GettingStartedClient.exe.config
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedClient\bin\Debug\GettingStartedClient.exe
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedClient\bin\Debug\GettingStartedClient.pdb
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedClient\obj\Debug\GettingStartedClient.csprojAssemblyReference.cache
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedClient\obj\Debug\GettingStartedClient.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedClient\obj\Debug\GettingStartedClient.exe
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedClient\obj\Debug\GettingStartedClient.pdb

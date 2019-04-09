@@ -1,0 +1,7 @@
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedLib\bin\Debug\GettingStartedLib.dll.config
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedLib\bin\Debug\GettingStartedLib.dll
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedLib\bin\Debug\GettingStartedLib.pdb
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedLib\obj\Debug\GettingStartedLib.csprojAssemblyReference.cache
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedLib\obj\Debug\GettingStartedLib.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedLib\obj\Debug\GettingStartedLib.dll
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedLib\obj\Debug\GettingStartedLib.pdb

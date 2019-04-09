@@ -1,0 +1,11 @@
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\obj\Debug\httpClient.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\bin\Debug\httpClient.exe.config
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\bin\Debug\httpClient.exe
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\bin\Debug\httpClient.pdb
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\obj\Debug\httpClient.exe
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\obj\Debug\httpClient.pdb
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\obj\Debug\httpClient.csproj.CopyComplete
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\httpClient\obj\Debug\httpClient.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\bin\Debug\GettingStartedHost.exe.config
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\bin\Debug\GettingStartedHost.exe
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\bin\Debug\GettingStartedHost.pdb
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\bin\Debug\GettingStartedLib.dll
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\bin\Debug\GettingStartedLib.pdb
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\bin\Debug\GettingStartedLib.dll.config
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\obj\Debug\GettingStartedHost.csprojAssemblyReference.cache
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\obj\Debug\GettingStartedHost.csproj.CopyComplete
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\obj\Debug\GettingStartedHost.exe
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\http\GettingStartedHost\obj\Debug\GettingStartedHost.pdb
